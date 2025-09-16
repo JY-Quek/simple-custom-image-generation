@@ -2,6 +2,7 @@
 Simple custom image generation without retraining a new model
 
 Process Description:
+
 1️⃣ Build an image gallery with captions.
 
 2️⃣ Take a prompt (e.g., “Komtar in LEGO”).
